@@ -7,6 +7,8 @@ public class Master {
 		System.out.println("master_1");
 		System.out.println("master_add_jwt");
 		System.out.println("new_project");
+		
+		System.out.println("new_fn_luoh");
 
 	}
 	
